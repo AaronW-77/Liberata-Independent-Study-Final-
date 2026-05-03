@@ -31,3 +31,75 @@ The model focuses on three key dimensions:
 - Cost (operational scaling)  
 
 ---
+
+## Research Objective
+
+The primary objective of this project is:
+
+- To evaluate how different strategic levers influence revenue, cost, and profitability  
+- To identify which strategies accelerate breakeven  
+- To provide a structured, reproducible framework for early-stage decision-making  
+
+---
+
+## Methodology
+
+### Scenario-Based Financial Modeling
+
+The model is designed as a **controlled experiment system**, where each scenario isolates a specific strategic lever:
+
+- **Scenario 1 (Growth):** Accelerated early-stage adoption  
+- **Scenario 2 (Timing):** Earlier revenue conversion  
+- **Scenario 3 (Cost):** Lean operational scaling  
+
+Each scenario modifies a subset of parameters while holding others constant, enabling direct comparison of impact.
+
+---
+
+### Model Structure
+
+The financial model follows a modular structure:
+
+- Revenue = Users × Price  
+- Cost = Salary + Cloud + Marketing + SG&A + CapEx  
+- EBIT = Revenue − Cost  
+
+All calculations are implemented in Excel and structured for transparency and reproducibility.
+
+---
+
+## Key Assumptions
+
+- Constant pricing growth over time  
+- Stable conversion rates across cohorts  
+- No market saturation constraints  
+- Cost components follow predefined growth rates  
+
+---
+
+## Results Summary
+
+Key findings from the model include:
+
+- **Growth-driven strategies (Scenario 1)** generate the highest long-term revenue and EBIT  
+- **Timing improvements (Scenario 2)** enhance early cash flow without changing long-term scale  
+- **Cost discipline (Scenario 3)** improves profitability through reduced operational expenses  
+
+Each strategy impacts a different dimension of performance:
+
+- Growth → Scale  
+- Timing → Cash flow  
+- Cost → Efficiency  
+
+---
+
+## Model Limitations
+
+- Deterministic model (no stochastic variation)  
+- No competitive dynamics modeled  
+- No market feedback or saturation effects  
+- Early-stage assumptions lack full empirical validation  
+
+Therefore, results should be interpreted as **directional insights rather than precise predictions**.
+
+---
