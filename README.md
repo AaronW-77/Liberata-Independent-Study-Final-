@@ -113,6 +113,6 @@ This ensures that the results can be fully reproduced and verified by other rese
 
 Potential extensions include:
 
-Incorporating stochastic simulation (e.g., Monte Carlo analysis)
-Modeling competitive dynamics
-Validating assumptions with real-world data
+- Incorporating stochastic simulation
+- Modeling competitive dynamics
+- Validating assumptions with real-world data
