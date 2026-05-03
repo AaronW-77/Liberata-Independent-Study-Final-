@@ -1,5 +1,4 @@
-# Liberata-Independent-Study-Final
-# Liberata Scenario-Based Financial Modeling Project
+# Liberata-Independent-Study-Final (Liberata Scenario-Based Financial Modeling Project)
 
 ## Author
 [Aaron Wang]: Lead Developer, Financial Model Designer, and Report Author
