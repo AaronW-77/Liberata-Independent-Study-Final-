@@ -11,10 +11,10 @@ This project was completed as part of an Independent Study under the supervision
 ---
 
 ## Acknowledgments
-I would like to sincerely thank Prof. Luyao Zhang for her guidance and valuable feedback throughout this project.  
-Special thanks to my product team leader, Anish Verma, and my teammates for their insightful discussions and support.  
-I also acknowledge Han Zhang and Patrick Prochazka for leading the Liberata Project and providing the context for this study.  
-Finally, I thank all members of the Liberata Project team for their collaboration and contributions.
+I would like to sincerely thank **Prof. Luyao Zhang** for her guidance and valuable feedback throughout this project.  
+Special thanks to my product team leader, **Anish Verma**, and my teammates for their insightful discussions and support.  
+I also acknowledge **Han Zhang** and **Patrick Prochazka** for leading the Liberata Project and providing the context for this study.  
+Finally, I thank **all members of the Liberata team** for their collaboration and contributions.
 
 ---
 
