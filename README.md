@@ -116,3 +116,6 @@ Potential extensions include:
 - Incorporating stochastic simulation
 - Modeling competitive dynamics
 - Validating assumptions with real-world data
+
+## License
+This project is licensed under the MIT License.
