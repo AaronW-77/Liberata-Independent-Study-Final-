@@ -103,3 +103,16 @@ Each strategy impacts a different dimension of performance:
 Therefore, results should be interpreted as **directional insights rather than precise predictions**.
 
 ---
+
+## Replicability
+
+All model assumptions, parameter values, and calculations are explicitly documented in the Excel file.
+This ensures that the results can be fully reproduced and verified by other researchers.
+
+## Future Work
+
+Potential extensions include:
+
+Incorporating stochastic simulation (e.g., Monte Carlo analysis)
+Modeling competitive dynamics
+Validating assumptions with real-world data
